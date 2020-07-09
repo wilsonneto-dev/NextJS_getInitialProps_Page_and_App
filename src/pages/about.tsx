@@ -13,4 +13,9 @@ const About = (): JSX.Element => (
   </>
 )
 
+About.getInitialProps = () => {
+  console.log('About.getInitialProps')
+  return { id: 10 }
+}
+
 export default About

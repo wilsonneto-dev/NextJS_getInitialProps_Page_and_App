@@ -22,7 +22,7 @@ const Home = ({ id }) => {
 }
 
 Home.getInitialProps = () => {
-  console.log('Here...')
+  console.log('Home.getInitialProps')
   return { id: 10 }
 }
 
