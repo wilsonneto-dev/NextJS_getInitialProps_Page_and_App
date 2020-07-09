@@ -1,0 +1,16 @@
+{
+  "title":  "Contato",
+  "subtitle1": "Deixe-nos saber como podemos ajudar.",
+  "subtitle2": "Preencha cada seção abaixo*:",
+  "subtitle3": "*Todos os campos são obrigatórios" ,
+
+  "form": {
+    "name": "Digite seu nome",
+    "email": "Digite seu e-mail",
+    "localCode": "DDD",
+    "phone": "Telefone",
+    "contactReason": "Motivo do contato",
+    "contactDetails": "Conte-nos um pouco mais. Você está usando algum dispositivo específico? O que está tentando assistir?",
+    "button": "Enviar"
+  }
+}

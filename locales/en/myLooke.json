@@ -1,0 +1,11 @@
+{
+  "title": "My Looke",
+
+  "menu": {
+    "myVideos": "My Vídeos",
+    "recently": "Recently",
+    "offlineVideos": "Offiline videos",
+    "favorite": "Favorite",
+    "watchLater": "Watch later"
+  }
+}

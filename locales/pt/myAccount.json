@@ -1,0 +1,52 @@
+{
+  "title": "Configurações",
+  "back": "Voltar",
+
+  "menu": {
+    "registration": "Dados de cadastro",
+    "signature": "Assinatura",
+    "financial": "Dados financeiros",
+    "device": "Dispositivos"
+  },
+  "terms": "Ao assinar você concorda com nosso CONTRATO, nossos TERMOS e nossa POLÍTICA DE PRIVACIDADE ",
+
+  "registration": {
+    "form": {
+      "passwordConfirmation": "Confirme sua senha",
+      "passwordPlaceholder": "Informe uma senha",
+      "personalData": "Dados pessoais",
+      "radio": {
+        "famale": "Feminino",
+        "male": "Masculino",
+        "other": "Outro"
+      },
+      "address": "Endereço",
+      "addressPlaceholder": "Informe o seu endereço",
+      "buttonSubmit": "Atualizar dados"
+    }
+  },
+
+  "signature": {
+    "plans": {
+      "available": "Planos disponíveis",
+      "signed": "Planos Assinados",
+      "title": "Plano",
+      "renew": "Reestabeleça seu plano:",
+      "value": "Valor:",
+      "sign": "assinar por",
+      "light": "Plano Light",
+      "experience": "Plano experience",
+      "master": "Plano Master"
+    },
+    "details": {
+      "nextCharge": "Próxima Cobrança:",
+      "cardChargeInformatiton": "Dados de cobrança:",
+      "cardChargeInformationNotFound": "Não possui nenhuma forma de pagamento vinculado a sua assinatura"
+    }
+  },
+
+  "device": {
+    "active": "Dispositivos ativos"
+  }
+
+}

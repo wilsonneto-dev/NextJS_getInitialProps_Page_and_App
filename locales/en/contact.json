@@ -1,0 +1,17 @@
+{
+  "title":  "Contact",
+  "subtitle1": "Let us know how we can help.",
+  "subtitle2": "Fill the form below*:",
+  "subtitle3": "*All fields are required." ,
+
+  "form": {
+    "name": "Your name",
+    "email": "Your e-mail",
+    "localCode": "DDD",
+    "phone": "Phone number",
+    "contactReason": "Contact reason",
+    "contactDetails": "Tell us a little more. Are you using any specific device? What are you trying to watch?",
+    "button": "Send"
+  }
+
+}

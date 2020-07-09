@@ -1,0 +1,52 @@
+{
+  "title": "Settings",
+  "back": "Back",
+
+  "menu": {
+    "registration": "User registration",
+    "signature": "Signature",
+    "financial": "Financial data",
+    "device": "Devices"
+  },
+  "terms": "signing this plan you agree our contract terms and privacy policy",
+
+  "registration": {
+    "form": {
+      "passwordConfirmation": "Confirm your password",
+      "passwordPlaceholder": "password",
+      "personalData": "Personal data",
+      "radio": {
+        "famale": "Female",
+        "male": "Male",
+        "other": "Other"
+      },
+      "address": "Address",
+      "addressPlaceholder": "Inform your address",
+      "buttonSubmit": "Update"
+    }
+  },
+
+  "signature": {
+    "plans": {
+      "available": "Available Plans",
+      "signed": "Signed Plans",
+      "title": "Plan",
+      "renew": "Renew:",
+      "value": "Value:",
+      "sign": "sign",
+      "light": "Light Plan",
+      "experience": "Experience Plan",
+      "master": "Master Plan"
+    },
+    "details": {
+      "nextCharge": "Next charge:",
+      "cardChargeInformatiton": "Charge informations:",
+      "cardChargeInformationNotFound": "You have no form of payment linked to your subscription"
+    }
+  },
+
+  "device": {
+    "active": "Active devices"
+  }
+
+}

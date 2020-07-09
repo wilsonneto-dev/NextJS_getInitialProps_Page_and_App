@@ -1,0 +1,47 @@
+{
+  "title": "You are renting",
+  "paymentType": {
+    "creditCard": "Credit Card",
+    "lookeCredit": "Looke Credits",
+    "giftcode": "Giftcode",
+    "billet": "Billet"
+  },
+  "total": "Total:",
+  "form": {
+    "cardNumber": "Card number:",
+    "expiresAt": "Expires at:",
+    "cvv": "CVV:",
+    "cardName": "Card name:",
+    "cardNamePlaceholder": "Insert your name",
+    "keepInformations": "Keep card informations to next putchases",
+    "giftcode": "Giftcode",
+    "giftcodePlaceholder": "Insert here",
+    "alreadyRegistred": "Already card registred?",
+    "selectCard": "Select an Card",
+    "submit": "Next",
+    "conclude": "Conclude"
+  },
+  "giftcode": {
+    "description": "Giftcode is the system for buying or renting films, clips, concerts and music, via a unique access code."
+  },
+  "lookeCredit": {
+    "title": "Check your Looke credit balance",
+    "description": "After the transaction, the purchase price will be deducted from your balance"
+  },
+  "billet": {
+    "description": "Generate a billet. Remember that billet expires in 3 days",
+    "generate": "Generate billet"
+  },
+
+  "concluded": {
+    "title": "Concluded!",
+    "local": "The video will be in 'My Videos'",
+    "actions": {
+      "goToVideos": "Go to My Videos",
+      "goToHome": "Return to Home",
+      "goToWatch": "Watch"
+
+    }
+  }
+
+}

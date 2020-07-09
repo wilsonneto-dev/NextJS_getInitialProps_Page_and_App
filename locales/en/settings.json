@@ -1,0 +1,38 @@
+{
+  "title": "Settings",
+
+  "menu": {
+    "registration": "User registration",
+    "signature": "Signature",
+    "financial": "Financial data",
+    "device": "Devices"
+  },
+
+  "registration": {
+    "form": {
+      "passwordConfirmation": "Confirm your password",
+      "passwordPlaceholder": "password",
+      "personalData": "Personal data",
+      "radio": {
+        "famale": "Female",
+        "male": "Male",
+        "other": "Other"
+      },
+      "address": "Address",
+      "addressPlaceholder": "Inform your address",
+      "buttonSubmit": "Update"
+    }
+  },
+
+  "signature": {
+    "plans": {
+      "available": "Available Plans",
+      "signed": "Signed Plans"
+    }
+  },
+
+  "device": {
+    "active": "Active devices"
+  }
+
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Você está alugando",
+  "paymentType": {
+    "creditCard": "Cartão de crédito",
+    "lookeCredit": "Créditos Looke",
+    "giftcode": "Giftcode",
+    "billet": "Boleto"
+  },
+  "total": "Total:",
+  "form": {
+    "cardNumber": "Número do Cartão:",
+    "expiresAt": "Válido até:",
+    "cvv": "CVV:",
+    "cardName": "Nome no cartão:",
+    "cardNamePlaceholder": "Insira o nome constado em seu cartão",
+    "keepInformations": "Salvar informações para próxima compra?",
+    "giftcode": "Possui algum giftcode?",
+    "giftcodePlaceholder": "Insira aqui",
+    "alreadyRegistred": "Já tem cartão cadastrado?",
+    "selectCard": "Utilizar cartão",
+    "submit": "Avançar",
+    "conclude": "Concluir"
+  },
+  "giftcode": {
+    "description": "O Giftcode é o sistema de compra e aluguel de filmes, clipes, shows e músicas, via código único de acesso, impressos em cartões ou e-ticket. Caso você possua um Giftcode, digite-o abaixo"
+  },
+  "lookeCredit": {
+    "title": "Verifique seu saldo de créditos Looke",
+    "description": "Após a operação, o valor a compra será descontado do seu total"
+  },
+  "billet": {
+    "description": "Gere o Boleto com o valor indicado acima, clicando abaixo. Lembre-se que o boleto tem validade de 3 dias.",
+    "generate": "Gerar boleto"
+  },
+
+  "concluded": {
+    "title": "Operação concluída!",
+    "local": "O vídeo estará adquirido em 'Meus Vídeos'",
+    "actions": {
+      "goToVideos": "Ir para meus vídeos",
+      "goToHome": "Voltar para home",
+      "goToWatch": "Assistir"
+
+    }
+  }
+
+}

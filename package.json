@@ -4,7 +4,8 @@
   "license": "MIT",
   "version": "1.0.0",
   "scripts": {
-    "dev": "next dev",
+    "dev:next": "next dev -p 8080",
+    "dev": "node .\\server.js",
     "build": "next build",
     "start": "next start",
     "type-check": "tsc --pretty --noEmit",
@@ -13,12 +14,6 @@
     "test": "jest",
     "test-all": "yarn lint && yarn type-check && yarn test"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged",
-      "pre-push": "yarn run type-check"
-    }
-  },
   "lint-staged": {
     "*.@(ts|tsx)": [
       "yarn lint",
@@ -26,7 +21,9 @@
     ]
   },
   "dependencies": {
+    "express": "^4.17.1",
     "next": "latest",
+    "next-translate": "^0.17.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
