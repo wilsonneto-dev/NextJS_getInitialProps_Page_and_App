@@ -21,7 +21,7 @@
     ]
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "next": "latest",
     "next-translate": "^0.17.1",
     "react": "^16.13.1",
